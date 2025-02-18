@@ -33,4 +33,6 @@ Hi! My name is **Hubert**, and I am a **Front-End Developer** passionate about b
 | **JavaScript Algorithms and Data Structures** | freeCodeCamp     | [View Certificate](https://www.freecodecamp.org/certification/fcc7ba81d0f-fe59-4ae1-a09b-07392f620c28/javascript-algorithms-and-data-structures-v8) |
 | **Front-End Development Libraries**        | freeCodeCamp     | [View Certificate](https://www.freecodecamp.org/certification/fcc7ba81d0f-fe59-4ae1-a09b-07392f620c28/front-end-development-libraries)               |
 
+---
+
 Thank you for visiting my portfolio! 😊
