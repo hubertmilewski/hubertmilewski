@@ -57,14 +57,5 @@ Hi! My name is Hubert , and I am a **Front-End Developer** passionate about buil
 ![JavaScript Certificate](link-to-javascript-certificate-image)
 ![React Certificate](link-to-react-certificate-image)
 
----
-
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=radical)
-
----
 
 Thank you for visiting my portfolio! 😊
