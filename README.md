@@ -16,8 +16,3 @@
 - [Flashcard Web](https://hubertmilewski.github.io/Flashcard-website/) - Learning flashcards platform (React + Firebase)
 - [Carpooling Full-Stack App](https://ecoride.domalewscy.pl/) - Ride sharing system (PHP + Tailwind)
 - Hydroponic System App - Mobile app for hydroponics (React Native + Expo) - Coming Soon
-
-## 📜 Certifications
-
-- [JavaScript Algorithms and Data Structures](https://www.freecodecamp.org/certification/your-cert-id/javascript-algorithms-and-data-structures)
-- [Front-End Development Libraries](https://www.freecodecamp.org/certification/your-cert-id/front-end-development-libraries)
