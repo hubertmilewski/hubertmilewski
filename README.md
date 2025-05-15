@@ -16,4 +16,4 @@
 - [Credit Card Creator](https://hubertmilewski.github.io/credit_card_website/) - Personalized credit card visuals (React + Vite)
 - [Flashcard Web](https://hubertmilewski.github.io/Flashcard-website/) - Learning flashcards platform (React + Firebase)
 - [Carpooling Full-Stack App](https://ecoride.domalewscy.pl/) - Ride sharing system (PHP + Tailwind)
-- Hydroponic System App - Mobile app for hydroponics (React Native + Expo) - Coming Soon
+- [Hydroponic System App](https://github.com/hubertmilewski/HydroGrow) - Mobile app for hydroponics (React Native + Expo)
