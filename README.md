@@ -11,9 +11,5 @@
 ![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white)
 ![Stripe](https://img.shields.io/badge/Stripe-008CDD?style=for-the-badge&logo=stripe&logoColor=white)
 
-## 🚀 My Projects
-
-- [Credit Card Creator](https://hubertmilewski.github.io/credit_card_website/) - Personalized credit card visuals (React + Vite)
-- [Flashcard Web](https://hubertmilewski.github.io/Flashcard-website/) - Learning flashcards platform (React + Firebase)
-- [Carpooling Full-Stack App](https://ecoride.domalewscy.pl/) - Ride sharing system (PHP + Tailwind)
-- [Hydroponic System App](https://github.com/hubertmilewski/HydroGrow) - Mobile app for hydroponics (React Native + Expo)
+[MY WEBSITE]
+https://my-portfolio-web-dtgh.vercel.app/
