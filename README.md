@@ -11,6 +11,6 @@
 ![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white)
 ![Stripe](https://img.shields.io/badge/Stripe-008CDD?style=for-the-badge&logo=stripe&logoColor=white)
  
-[MY WEBSITE] https://my-portfolio-web-dtgh.vercel.app/ <br>
+[My Website] https://my-portfolio-web-dtgh.vercel.app/ <br>
 [Acrobatic Forge] https://acrobaticforge.pl/ <br>
 [EcoRide] https://ecoride.domalewscy.pl/ <br>
