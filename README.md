@@ -1,9 +1,15 @@
-# Hi there, I'm Hubert! 👋 
+### Hi there 👋, I'm Hubert Milewski
 
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Next.js](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
+### 👨‍💻 Who are you?
+I am a **Front-end Developer** and **AI Automation Engineer** based in Poland. I have been exploring code for over 5 years and have 1 year of commercial experience delivering software solutions. My main focus is building modern web applications and integrating them with efficient AI workflows.
 
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white)
-![Stripe](https://img.shields.io/badge/Stripe-008CDD?style=for-the-badge&logo=stripe&logoColor=white)
+### 🔭 What are you currently working on?
+Currently, I work at **Hire AI**, where I am building an advanced **dashboard** and **AI agents**. Simultaneously, I am developing a custom management dashboard for an **acrobatics company** to streamline their operations.
+
+### 🛠️ What tools do you use?
+My core stack revolves around the **React** ecosystem, specifically **Next.js** combined with **Supabase** for backend services. For AI automation tasks, I utilize **n8n**. 
+
+I am also proficient in using **Git** for version control, deploying apps via **Vercel**, and I have a basic working knowledge of **Docker**.
+
+### 📫 How to reach you?
+If you want to chat about code or automation, the best way to reach me is via **[LinkedIn](https://www.linkedin.com/in/hubert-milewski-957585358/)**.
