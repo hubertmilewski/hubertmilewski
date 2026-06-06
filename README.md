@@ -8,4 +8,4 @@ My core stack revolves around the **React** ecosystem, specifically **Next.js** 
 
 I am also proficient in using **Git** for version control, deploying apps via **Vercel**, and I have a basic working knowledge of **Docker**.
 
-If you want to chat about code or automation, the best way to reach me is via **[LinkedIn](https://www.linkedin.com/in/hubert-milewski-957585358/)**.
+To contact me, just send a message via **[LinkedIn](https://www.linkedin.com/in/hubert-milewski-957585358/)**.
