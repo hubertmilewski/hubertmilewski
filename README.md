@@ -1,11 +1,11 @@
 ### Hi there 👋, I'm Hubert Milewski
 
-I am a **Front-end Developer** and **AI Automation Engineer** based in Poland. I have been exploring code for over 5 years and have 1 year of commercial experience delivering software solutions. My main focus is building modern web applications and integrating them with efficient AI workflows.
+I am a **Front-end Developer** and **AI Automation Engineer** based in Poland. I have been exploring code for over 5 years and possess solid commercial experience in delivering end-to-end software solutions. My main focus is building modern web applications and integrating them with efficient AI workflows.
 
-Currently, I work at **Hire AI**, where I am building an advanced **dashboard** and **AI agents**. Simultaneously, I am developing a custom management dashboard for an **acrobatics company** to streamline their operations.
+Currently, I specialize in developing advanced **analytics dashboards**, custom **business management systems** designed to streamline operations.
 
-My core stack revolves around the **React** ecosystem, specifically **Next.js** combined with **Supabase** for backend services. For AI automation tasks, I utilize **n8n**. 
+My core stack revolves around the **React** ecosystem, specifically **Next.js** combined with **Supabase** or **PostgreSQL** for backend services. For AI automation tasks and API integrations, I utilize tools like **n8n**. 
 
-I am also proficient in using **Git** for version control, deploying apps via **Vercel**, and I have a basic working knowledge of **Docker**.
+I am also proficient in using **Git** for version control, deploying apps via **Vercel**.
 
 To contact me, just send a message via **[LinkedIn](https://www.linkedin.com/in/hubert-milewski-957585358/)**.
