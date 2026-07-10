@@ -1,6 +1,6 @@
 ### Hi there 👋, I'm Hubert Milewski
 
-I am a **Front-end Developer** and **AI Automation Engineer** based in Poland. I have been exploring code for over 5 years and possess solid commercial experience in delivering end-to-end software solutions. My main focus is building modern web applications and integrating them with efficient AI workflows.
+I am a **Front-end Developer** and **AI Automation Engineer** based in Poland. I have been exploring code for over 6 years and possess solid commercial experience in delivering end-to-end software solutions. My main focus is building modern web applications and integrating them with efficient AI workflows.
 
 Currently, I specialize in developing advanced **analytics dashboards**, custom **business management systems** designed to streamline operations.
 
