@@ -4,8 +4,6 @@ I am a **Front-end Developer** and **AI Automation Engineer** based in Poland. I
 
 Currently, I specialize in developing advanced **analytics dashboards**, custom **business management systems** designed to streamline operations.
 
-My core stack revolves around the **React** ecosystem, specifically **Next.js** combined with **Supabase** or **PostgreSQL** for backend services. For AI automation tasks and API integrations, I utilize tools like **n8n**. 
-
-I am also proficient in using **Git** for version control, deploying apps via **Vercel**.
+My core stack revolves around the **React** ecosystem, specifically **Next.js** combined with **PostgreSQL** for backend services. For AI automation tasks and API integrations, I utilize tools like **n8n**. 
 
 To contact me, just send a message via **[LinkedIn](https://www.linkedin.com/in/hubert-milewski-957585358/)**.
